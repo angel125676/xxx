@@ -1,0 +1,72 @@
+ BODY {
+ background-color:orange;
+}
+
+H1 {
+   color:blue;
+   text-align:center;
+   font-family:	Times New Roman;
+   font-weight:bold;
+   font-size:50px
+ }
+ 
+H2 {
+   color:blue;
+   text-align:center;
+   font-family:Copperplate;
+   font-weight:bold;
+   font-size:40px
+}
+
+H3 {
+   color:blue;
+   text-align:center;
+   font-family:Garamond;
+   font-weight:bold;
+   font-size:40px
+}
+
+H4 {
+   color:red;
+   text-align:center;
+   font-family:Lucida Handwriting;
+   font-weight:bold;
+   font-size:30px
+}
+
+H5 {
+   color:red;
+   text-align:center;
+   font-family:Lucida Handwriting;
+   font-weight:bold;
+   font-size:40px
+}
+
+ul {
+  list-style-type:square;
+  font-family:sans-serif;
+  font-size:30px;
+  text-align:center;
+
+}
+
+
+
+p {
+     color:black;
+     text-align:center;
+     font-family:serif;
+     font-size:30px
+}
+
+
+h6 {
+   color:red;
+   text-align:center;
+   font-family:Lucida Handwriting;
+   font-weight:bold;
+   font-size:40px
+}
+
+
+
